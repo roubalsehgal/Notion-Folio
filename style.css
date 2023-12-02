@@ -12,9 +12,9 @@
     --list-item-border:#E1E9FF;
     --list-item-hover:#F1F5FF;
     --page-width:1280px;
-    --button-rounding:50px!important;
+    --button-rounding:10px!important;
     --header-title-align:center!important;
-    --card-radius:36px!important;
+    --card-radius:20px!important;
     --header-gradient:linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 98%)!important;
     --navbar-bg:rgba(255, 255, 255, .6)!important
 }
@@ -51,7 +51,7 @@ body{
     -moz-backdrop-filter:blur(20px) saturate(200%)!important;
     backdrop-filter:blur(20px) saturate(200%)!important;
     box-shadow:0 0 20px rgba(0,0,0,.04)!important;
-    height:65px!important
+    height:72px!important
 }
 .notion-dropdown__button svg:first-of-type,.notion-dropdown__menu-header,.notion-toggle.bg-brown{
     display:none!important
