@@ -401,3 +401,7 @@ h1.notion-heading{
 .notion-dropdown__option.active p{
     color:var(--button-text-color)!important
 }
+
+article .notion-text:first-of-type{
+  text-align: center;
+}
