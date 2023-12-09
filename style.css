@@ -14,7 +14,7 @@
     --page-width:1280px;
     --button-rounding:10px!important;
     --header-title-align:center!important;
-    --card-radius:20px!important;
+    --card-radius:12px!important;
     --header-gradient:linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 98%)!important;
     --navbar-bg:rgba(255, 255, 255, .6)!important
 }
