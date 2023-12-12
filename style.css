@@ -315,7 +315,7 @@ h1.notion-heading{
         border:1px solid var(--button-bg-color)!important
     }
     .notion-dropdown__option:hover p,.notion-dropdown__option:hover svg{
-        color:var(--color-bg-default)!important
+        color:var(--button-bg-color)!important
     }
     .notion-dropdown__option{
         margin:10px;
