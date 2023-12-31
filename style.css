@@ -92,8 +92,8 @@ h1.notion-heading{
     border:0!important
 }
 .notion-collection-card__cover.medium{
-    height:280px!important;
-    max-height:280px!important
+    height:220px!important;
+    max-height:220px!important
 }
 .notion-property__title{
     transition:opacity .15s ease-in-out!important;
