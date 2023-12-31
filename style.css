@@ -122,7 +122,8 @@ h1.notion-heading{
     align-items: center;
     justify-content:center;
     justify-content:space-between!important;
-    font-size:.8em!important
+    font-size:.8em!important;
+    text-align: center;
 }
 
 .notion-collection-card__property:last-child,.notion-collection-list__item-property:last-child{
